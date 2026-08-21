@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Explicit mapping to the HTML Dark Theme CSS variables -->
+    <color name="ink">#000000</color>
+    <color name="panel">#1c1c1e</color>
+    <color name="field">#2c2c2e</color>
+    <color name="hair">#3a3a3c</color>
+    <color name="text_color">#f4f4f5</color>
+    <color name="dim">#9a9aa0</color>
+    <color name="accent">#ffffff</color>
+    <color name="ok">#ffffff</color>
+</resources>
