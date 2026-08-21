@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Explicit mapping to the HTML Light Theme CSS variables -->
+    <color name="ink">#f4f4f5</color>
+    <color name="panel">#ffffff</color>
+    <color name="field">#e4e4e7</color>
+    <color name="hair">#d4d4d8</color>
+    <color name="text_color">#27272a</color>
+    <color name="dim">#71717a</color>
+    <color name="accent">#111111</color>
+    <color name="ok">#111111</color>
+    
+    <!-- Utilities -->
+    <color name="transparent">#00000000</color>
+    <color name="history_overlay">#B3000000</color>
+    <color name="delete_red">#ff5555</color>
+    <color name="delete_red_bg">#26ff5050</color>
+    <color name="pure_black">#000000</color>
+    <color name="pure_white">#ffffff</color>
+</resources>
